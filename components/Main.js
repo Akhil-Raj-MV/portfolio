@@ -23,11 +23,14 @@ const Main = () => {
           </p>
           <div className='inline-flex' >
           <a
-              href='https://www.linkedin.com/in/akhil-raj/'
-              target='_blank'
-              rel='noreferrer'
+             href="https://drive.google.com/file/d/1aFIcBuqgnkWT4RZGlKwCSQdHP9BRHmFa/view?usp=sharing" 
+             download
+             rel="noopener noreferrer" 
+             target="_blank"
             >
-                 <button class="inline-flex items-center text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded">
+                 <button 
+                  class="inline-flex items-center text-blue-700 font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded"
+                  >
                     <svg class="fill-current w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z"/></svg>
                         <span>Resume</span>
                 </button>
