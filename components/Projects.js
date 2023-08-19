@@ -5,6 +5,7 @@ import BoxImg from '../public/assets/projects/box.png';
 import ChatImg from '../public/assets/projects/chat.png'
 import EcomImg from '../public/assets/projects/ecom.png'
 import TicImg from '../public/assets/projects/tic.png'
+import CnnImg from "../public/assets/projects/cnn.png"
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -33,6 +34,13 @@ const Projects = () => {
             backgroundImg={EcomImg}
             projectUrl='/ecom'
             tech='React JS-Commerce JS'
+
+          />
+          <ProjectItem
+            title='Devanagari Character Recognition'
+            backgroundImg={CnnImg}
+            projectUrl='/cnn'
+            tech='Python-Keras-Scikit Learn-Pandas'
 
           />
           <ProjectItem

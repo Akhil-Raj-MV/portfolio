@@ -13,7 +13,7 @@ const About = () => {
           </h2>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            I am a pre-final year undergraduate student at NIT Calicut,
+            I am a final year undergraduate student at NIT Calicut,
             Working on different technologies in the field of Web development and 
             software development. What started out as a curiosity turned out into 
             love for programming and development.
